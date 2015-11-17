@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/ticket_1">
+        <file>no_image</file>
+        <file>image_2</file>
+        <file>image_3</file>
+        <file>image_4</file>
+        <file>image_5</file>
+        <file>image_7</file>
+        <file>image_8</file>
+        <file>image_9</file>
+        <file>image_10</file>
+        <file>image_11</file>
+        <file>image_12</file>
+        <file>image_13</file>
+        <file>image_14</file>
+        <file>image_15</file>
+        <file>image_16</file>
+    </qresource>
+    <qresource prefix="/source">
+        <file>title</file>
+        <file>Билет</file>
+    </qresource>
+</RCC>
